@@ -1,0 +1,21 @@
+{
+    "devDependencies": {
+        "@cucumber/cucumber": "11.2.0"
+    },
+    "scripts": {
+        "test": "cucumber-js"
+    },
+    "dependencies": {
+        "chai": "^5.1.2",
+        "chromedriver": "^133.0.0",
+        "selenium-webdriver": "^4.28.1",
+        "type": "^2.7.3"
+    },
+    "name": "cucumber",
+    "version": "1.0.0",
+    "main": "doubleClick.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
