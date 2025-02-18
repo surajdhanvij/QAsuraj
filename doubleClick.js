@@ -11,6 +11,8 @@ async function testDoubleClick() {
 
     // Create an instance of the Actions class
     let actions = driver.actions({ async: true });
+    console.log("Hello");
+
 
     // Double click on the element
     await actions.doubleClick(element).perform();
